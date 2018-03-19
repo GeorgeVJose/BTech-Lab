@@ -1,0 +1,22 @@
+Write simple java program for the following:
+a. To find the factorial of a given number
+b. To print the first n fibonacci series
+c. To check whether a given string is palindrome
+Familiarization of Basic Networking Commands and Network configuration files in Linux
+Familiarization of system calls used for operating system and network programming in linux
+Write a program to implement process creation
+Write a program to implement a simple thread
+Implementation of Inter Process Communication using
+a. PIPE
+b. Message Queue
+c. Shared Memory
+Implement Distance vector routing protocol
+Implement Link state routing protocol
+Implement Client Server Communication using socket programming and TCP as transport layer protocol
+Implement Client Server Communication using socket programming and UDP as transport layer protocol
+Implement a multi user chat server using TCP as Transport layer protocol
+Implement Concurrent Time Server application using UDP to execute the program at remote server. Client sends a time request to the server, server sends its system time back to the client. Client displays the result
+Implement Simple Mail Transfer Protocol
+Develop concurrent file server which will provide the file requested by client if it exists. If not server sends appropriate message to the client. Server should also send its process ID (PID) to clients for display along with file or the message
+Familiarization of Wireshark (home assignment)
+Familiarization programs for GUI and Applet
